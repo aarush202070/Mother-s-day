@@ -1,0 +1,98 @@
+img {
+    height: 700px;
+    width: 800px;
+}
+
+#myCarousel {
+    background-color:burlywood;
+    height: 400px;
+}
+
+#myCarousel img {
+    height: 300px;
+    margin-top: 35px;
+}
+
+#myCarouse2 {
+    background-color: #b5d0d4;
+}
+
+#myCarouse2 img {
+    height: 300px;
+    margin-top: 35px;
+}
+
+.menu {
+    background: #9af75c;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    margin-top: 0px;
+    z-index: 10;
+}
+
+.links {
+    color: #114f4b;
+    padding-top: 5px;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: 'Sonsie One', cursive;
+    display: inline;
+    font-size: 20px;
+}
+#lol{
+    height: 500px;
+    width:500px;
+}
+
+.one {
+    width: 400px;
+}
+
+#l {
+    height: 300px;
+    width: 300px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 30px;
+}
+
+#o {
+    height: 300px;
+    width: 300px;
+    margin-left: 30px;
+    margin-right: 30px;
+        margin-top: 30px;
+}
+
+#m {
+    height: 300px;
+    width: 300px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 30px;
+}
+#d {
+    height: 300px;
+    width: 300px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 30px;
+}
+
+#n {
+    height: 300px;
+    width: 300px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 30px;
+}
+
+body {
+    text-align: center;
+ background-color:linear-gradient( skyblue 0%, burlywood 100%)
+}
+.one2{
+    height: 700px;
+    width: 250px;
+}
